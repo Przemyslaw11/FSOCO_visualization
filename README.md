@@ -14,10 +14,11 @@ My interpretation of FSOCO dataset. Analysis was made as a task in the science c
  
 ⚫ The images shows relationship between weight and height of the cones. It seems that most of the cones are in the same size, except large orange cones which are naturally larger than casual cones. You can see small deviations in the data, which can affect the training of machine learning models. The result may be lower precision of the model.
   
-  ![Image](data/normWidth_To_normHeight_ALL.png "Notebook results")
+![Image](data/normWidth_To_normHeight_ALL.png "Notebook results")
   
-⚪ The deviations in the data are better noticeable, when we compare all the cones in the one place. In my opinion, augmentation of the data should be mandatory to achieve better precision of the machine learning models. 
-  ![Image](data/normWidth_To_normHeight.png "Notebook results")
+⚪ The deviations in the data are better noticeable, when we compare all the cones in the one place. In my opinion, augmentation of the data should be mandatory to achieve better precision of the machine learning models.
+
+ ![Image](data/normWidth_To_normHeight.png "Notebook results")
  
 ⚫ The images below shows (TO DO 🦖)
   
