@@ -6,7 +6,7 @@ The image below shows placement of all the cones from the dataset. It seems that
 
 <div align="center">
 
-![Image](data/output.png "Notebook results")
+![Image](data/normed_cones_placement.png "Notebook results")
 
 </div>
 
