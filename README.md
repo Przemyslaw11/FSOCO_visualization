@@ -7,7 +7,7 @@ My interpretation of FSOCO dataset. Analysis was made as a task in the science c
 
 ![Image](data/normed_cones_placement.png "Notebook results")
 
-⚪ The images shows how many cones of a specific type is located in the dataset. You can see that there noticeably more yellow and blue cones compared to other cones. It is worth paying attention to the fact that only 3% of the dataset consist of photos which include unknown cones.
+⚪ The images shows how many cones of a specific type is located in the dataset. You can see that there noticeably more yellow and blue cones compared to the other cones. It is worth paying attention to the fact that only 3% of the dataset consist of photos which include unknown cones.
   
  ![Image](data/conesType_To_count_hist.png "Notebook results")
   ![Image](data/conesType_To_count_pie_chart.png "Notebook results")
