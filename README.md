@@ -20,7 +20,7 @@ My interpretation of FSOCO dataset. Analysis was made as a task in the science c
 
  ![Image](data/normWidth_To_normHeight.png "Notebook results")
  
-⚫ The images below shows (TO DO 🦖)
+⚫ The images below shows clear correlation between height/ width and density of pixels in the pictures. It seems that peak of density for all the cones is about 20 x 20 pixels. It means that an average cone in the dataset is within three standard deviations of this size.  
   
   ![Image](data/pixHeight_To_Density.png "Notebook results")
   ![Image](data/pixWidth_To_Density.png "Notebook results")
